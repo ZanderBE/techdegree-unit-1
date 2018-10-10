@@ -71,7 +71,7 @@ header .profile-image {
   height: 150px;
   border-radius: 50%;
   border: 3px solid white;
-  transition: all .5s;
+  transition: all .10s;
 }
 header .profile-image:hover {
   transform: scale(1.2) rotate(360deg);
@@ -96,7 +96,7 @@ header .profile-image:hover {
   background: #fff;
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
-  transition: all .5s;
+  transition: all .10s;
 }
 .card:hover {
   border-color: #ff99ff;
@@ -149,7 +149,7 @@ a.social {
   height: 30px;
   background-size: 30px 30px;
   opacity: .4;
-  transition: all .5s;
+  transition: all .10s;
 }
 a.twitter {
   background-image: url(images/twitter.svg);
