@@ -4,9 +4,7 @@
 
 To complete this project, follow the instructions below:
 
-Create or find an image file to represent yourself and a new image for the background. Be aware of file size: keep the profile image under 400 KB and the background image under 1 MB (see the link in the resources section to Picresize, an online image resizing tool)
-
-
+- Create or find an image file to represent yourself and a new image for the background. Be aware of file size: keep the profile image under 400 KB and the background image under 1 MB (see the link in the resources section to Picresize, an online image resizing tool)
 - Using a text editor, modify the HTML of the index.html file:
 - Add the images you collected in step 1 to the page.
 - Personalize the text on the page by changing the name, background and goals. Feel free to make up the information if you do not wish to share anything personal.
